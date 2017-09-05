@@ -1,4 +1,4 @@
 # iWeather App
 
-This is a weather checker app 
-Leaning from Traversy media 
+This is a weather app 
+leaning from Traversy media 
